@@ -32,9 +32,6 @@ body {
     background-color: rgba(62, 62, 224, 0.884);
     color: white;
 }
-    
-
-
 .well-lg{
     background-color: rgba(247, 247, 247, 0.459);
     text-align: center;
@@ -48,7 +45,7 @@ h1{
     
 }
 
-#timeLeft, #message,.question, #currentQuestion{
+#timeLeft, #message,.question, #currentQuestion, #correctedAnswer{
     color: red;
 }
 #jpg{
