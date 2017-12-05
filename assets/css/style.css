@@ -1,0 +1,61 @@
+body {
+    background-image: url("../images/mopar_60s.jpg");
+}
+.jumbotron{
+    background-color: rgba(247, 247, 247, 0.459);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: rgb(35, 35, 207);
+}
+.btn-primary, .reset{
+    background-color: rgb(35, 35, 207);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 30px;
+    background-size: 40px;
+}
+
+.btn-primary:hover, .reset:hover{
+    background-color: rgba(62, 62, 224, 0.884);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 30px;
+    background-size: 40px;
+}
+
+.thisChoice:hover{
+    background-color: rgba(62, 62, 224, 0.884);
+    color: white;
+}
+    
+
+
+.well-lg{
+    background-color: rgba(247, 247, 247, 0.459);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: rgb(35, 35, 207);
+}
+
+h1{
+    font-weight: bold;
+    
+}
+
+#timeLeft, #message,.question, #currentQuestion{
+    color: red;
+}
+#jpg{
+    height:auto;
+    width: auto;
+}
+
+/* .container1{
+ 
+} */
