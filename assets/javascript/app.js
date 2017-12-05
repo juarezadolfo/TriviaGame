@@ -154,7 +154,7 @@ function answerPage() {
         setTimeout(newQuestion, 5000);
     }
 }
-
+// final functions and also names for CSS parameters, IDs etc...
 function scoreboard() {
     $('#timeLeft').empty();
     $('#message').empty();
